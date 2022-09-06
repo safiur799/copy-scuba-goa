@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./font.css";
+@import url('style.css');
+@import url('./responsive.css');
+
+
