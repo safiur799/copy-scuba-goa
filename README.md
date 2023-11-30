@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Travel agency web app
+
+## Travel agency web app
 This repository hosts the codebase for a comprehensive Travel Booking App designed to simplify and enhance the travel experience. The app aims to provide users with a seamless platform for planning, booking, and managing their travel arrangements efficiently.
 
 
